@@ -1,0 +1,12 @@
+# Ignorar carpetas temporales
+audio/
+video/
+
+# Ignorar archivos temporales
+*~
+
+# Ignorar archivos de código fuente compilados
+*.o
+# Ignorar archivos de configuración locales
+.env
+config.json
